@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gautameunni10
 - - 👀 I’m interested in Physics, Mathematics, learning Python, density function theory calculations, computational material science, computational biophysics,
-  - then fun stuff like cricket, soccer, Sci-Fi movies, DC Universe,
+  - then fun stuff like cricket, soccer, Sci-Fi movies, DC Universe, pets, gardening, nature
   - then some real stuff like Yoga, Vedanta or Hindu philosophy
 - 🌱 I’m currently learning python, data science and computational material science
 - 💞️ I’m looking to collaborate on computational material science
